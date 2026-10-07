@@ -29,10 +29,6 @@ Instead of writing SQL, you just type what you want, such as *"Find employees fr
 
 ## 🎬 Demo
 
-> Add a screenshot or GIF of the app here.
->
-> `![App Screenshot](screenshots/app.png)`
-
 **Example conversation:**
 
 | You type | Agent does |
@@ -255,7 +251,7 @@ Table: **`employees`**
 Final-year BCA student, JIS University, Kolkata
 Interested in Data Analytics, SQL and AI/ML
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [TuhinRoy07]
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
